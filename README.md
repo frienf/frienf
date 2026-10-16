@@ -4,7 +4,7 @@
 
 I turn operational data into decisions — across sales, inventory, supply chain, procurement and finance — and build the automation and pipelines that keep those decisions current.
 
-[![Watch the 15-second introduction](./thumbnail.png)](./intro.mp4)
+[![Watch the 15-second introduction]](https://youtu.be/wA7iaH6F8NQ)
 
 *From raw signals to intelligent systems*
 
