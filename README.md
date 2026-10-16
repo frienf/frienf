@@ -4,6 +4,10 @@
 
 I turn operational data into decisions — across sales, inventory, supply chain, procurement and finance — and build the automation and pipelines that keep those decisions current.
 
+[![Watch the 15-second introduction](./thumbnail.png)](./intro.mp4)
+
+*From raw signals to intelligent systems*
+
 📍 Mumbai, India · Open to Data Analyst & Data Engineering roles (Remote / Hybrid)
 
 [Portfolio](https://frienf.github.io/deepak-gond-portfolio/) · [LinkedIn](https://www.linkedin.com/in/deepak-gond-80595b219) · [Email](mailto:gonddeepak786@gmail.com)
@@ -49,7 +53,7 @@ EDA, preprocessing and modelling notebooks for multi-file invoice data
 Operational tracking prototype
 
 **Side projects (learning / exploration)**  
-- [Sudoku-Solver-Using-Opencv](https://github.com/frienf/Sudoku-Solver-Using-Opencv) — OpenCV + TensorFlow digit recognition (≈95% accuracy)  
+- [Sudoku-Solver-Using-Opencv](https://github.com/frienf/Sudoku-Solver-Using-Opencv) — OpenCV + TensorFlow digit recognition  
 - [Sign_Language_translator](https://github.com/frienf/Sign_Language_translator) — real-time CNN for 35 gestures  
 - [Basic-Auth-App](https://github.com/frienf/Basic-Auth-App) — React + Vite auth (email/password + Google OAuth)
 
@@ -65,18 +69,3 @@ Data & APIs   ETL/ELT · Data modelling · REST APIs · ERP integration · MySQL
 Automation    Google Apps Script · Google Sheets · Python automation
 Development   Git · GitHub · React · TypeScript · FastAPI (when needed)
 Exploring     Advanced pipelines · AI-powered analytics tooling
-
-<!--
-**frienf/frienf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
