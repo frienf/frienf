@@ -1,22 +1,12 @@
 # Deepak Gond
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/deepak-gond-80595b219">
-    <img src="https://avatars.githubusercontent.com/u/45816020?v=4&size=64" width="140" height="140" style="border-radius: 50%;" alt="Deepak Gond"/>
-  </a>
-</p>
-
 **Data Analyst · BI & Analytics · Data Engineering**
 
 I turn operational data into decisions — across sales, inventory, supply chain, procurement and finance — and build the automation and pipelines that keep those decisions current.
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=wA7iaH6F8NQ">
-    <img src="https://img.youtube.com/vi/wA7iaH6F8NQ/maxresdefault.jpg" alt="Watch the 15-second introduction" width="800"/>
-  </a>
-</p>
+[![Watch the 15-second introduction](https://img.youtube.com/vi/wA7iaH6F8NQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=wA7iaH6F8NQ)
 
-<p align="center"><em>From raw signals to intelligent systems</em></p>
+*From raw signals to intelligent systems*
 
 📍 Mumbai, India · Open to Data Analyst & Data Engineering roles (Remote / Hybrid)
 
