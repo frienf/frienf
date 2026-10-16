@@ -4,7 +4,7 @@
 
 I turn operational data into decisions — across sales, inventory, supply chain, procurement and finance — and build the automation and pipelines that keep those decisions current.
 
-[![Watch the 15-second introduction]](https://youtu.be/wA7iaH6F8NQ)
+[![Watch the 15-second introduction](https://img.youtube.com/vi/wA7iaH6F8NQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=wA7iaH6F8NQ)
 
 *From raw signals to intelligent systems*
 
@@ -45,19 +45,15 @@ React + Vite · Three.js data-pipeline hero · GSAP scroll choreography
 Live: [frienf.github.io/deepak-gond-portfolio](https://frienf.github.io/deepak-gond-portfolio/)
 
 **Invoice Scanner**  
-[Invoice-Scanner](https://github.com/frienf/Invoice-Scanner)  
-EDA, preprocessing and modelling notebooks for multi-file invoice data
+[Invoice-Scanner](https://github.com/frienf/Invoice-Scanner)
 
 **Container Tracker**  
-[Container-Tracker](https://github.com/frienf/Container-Tracker)  
-Operational tracking prototype
+[Container-Tracker](https://github.com/frienf/Container-Tracker)
 
-**Side projects (learning / exploration)**  
-- [Sudoku-Solver-Using-Opencv](https://github.com/frienf/Sudoku-Solver-Using-Opencv) — OpenCV + TensorFlow digit recognition  
-- [Sign_Language_translator](https://github.com/frienf/Sign_Language_translator) — real-time CNN for 35 gestures  
-- [Basic-Auth-App](https://github.com/frienf/Basic-Auth-App) — React + Vite auth (email/password + Google OAuth)
-
-> Project descriptions and deeper case studies will be linked as individual repositories are published or updated.
+**Side projects**  
+- [Sudoku-Solver-Using-Opencv](https://github.com/frienf/Sudoku-Solver-Using-Opencv)  
+- [Sign_Language_translator](https://github.com/frienf/Sign_Language_translator)  
+- [Basic-Auth-App](https://github.com/frienf/Basic-Auth-App)
 
 ---
 
@@ -67,5 +63,5 @@ Operational tracking prototype
 Analytics     SQL · Python · Pandas · NumPy · Power BI · DAX · Power Query · Looker Studio
 Data & APIs   ETL/ELT · Data modelling · REST APIs · ERP integration · MySQL · PostgreSQL
 Automation    Google Apps Script · Google Sheets · Python automation
-Development   Git · GitHub · React · TypeScript · FastAPI (when needed)
-Exploring     Advanced pipelines · AI-powered analytics tooling
+Development   Git · GitHub · React · TypeScript · FastAPI
+Exploring     Advanced pipelines · AI-powered analytics
